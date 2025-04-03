@@ -91,5 +91,11 @@ menu {
     }
   }
 
-  
+  li:hover {
+    background-color: var(--custom-green);
+
+    a {
+        color: var(--grey-800);
+    }
+  }
 }
